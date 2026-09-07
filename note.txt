@@ -1,0 +1,6 @@
+Things I'm learning:
+C
+C++
+Git
+GitHub
+Python
